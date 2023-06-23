@@ -15,5 +15,9 @@ namespace WPF_Command_MVVM_Homework.Models
         public string? Engine { get; set; }
         public int Year { get; set; }
 
+        public override string ToString() {
+            return Name!;
+        }
+
     }
 }

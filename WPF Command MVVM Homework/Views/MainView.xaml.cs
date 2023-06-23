@@ -11,17 +11,13 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using WPF_Command_MVVM_Homework.ViewModels;
 
-namespace WPF_Command_MVVM_Homework.Views
-{
-    /// <summary>
-    /// Interaction logic for MainView.xaml
-    /// </summary>
-    public partial class MainView : Window
-    {
-        public MainView()
-        {
+namespace WPF_Command_MVVM_Homework.Views {
+    public partial class MainView : Window {
+        public MainView() {
             InitializeComponent();
+            DataContext = new MainViewModel();
         }
     }
 }

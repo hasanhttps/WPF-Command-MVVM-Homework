@@ -5,9 +5,36 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Command_MVVM_Homework.Views"
         mc:Ignorable="d"
-        Title="ShowView" Height="450" Width="800">
-    <Grid>
-        <TextBlock Text="Name : "/>
-        <TextBlock Text="{Binding selectCar.Name}"/>
-    </Grid>
+        Title="ShowView" Height="297" Width="460">
+    <StackPanel HorizontalAlignment="Center">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Id : " />
+            <TextBlock Text="{Binding selectedCar.Id, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Name : " />
+            <TextBlock Text="{Binding selectedCar.Name, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Maker : "/>
+            <TextBlock Text="{Binding selectedCar.Maker, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Model : "/>
+            <TextBlock Text="{Binding selectedCar.Model, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Engine : "/>
+            <TextBlock Text="{Binding selectedCar.Engine, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Year : "/>
+            <TextBlock Text="{Binding selectedCar.Year, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+    </StackPanel>
 </Window>

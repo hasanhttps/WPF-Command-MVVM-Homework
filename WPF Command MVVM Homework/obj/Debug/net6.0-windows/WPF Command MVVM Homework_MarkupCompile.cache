@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\App.xaml
-31493763910
+4-78258533
 
-8-1815974807
+101009613931
 194-1617825143
-ResourceDictionaries\MainCustomButtonsRD.xaml;Views\MainView.xaml;Views\ShowView.xaml;
+ResourceDictionaries\MainCustomButtonsRD.xaml;Views\EditView.xaml;Views\MainView.xaml;Views\ShowView.xaml;
 
 False
 

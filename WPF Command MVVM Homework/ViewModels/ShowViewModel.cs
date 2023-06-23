@@ -9,8 +9,6 @@ namespace WPF_Command_MVVM_Homework.ViewModels {
     public class ShowViewModel {
 
         public Car? selectedCar { get; set; }
-
-
         public ShowViewModel() { }
         public ShowViewModel(Car? Car) {
             selectedCar = Car;

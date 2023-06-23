@@ -23,3 +23,5 @@ C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\
 C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\ref\WPF Command MVVM Homework.dll
 C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\ShowView.g.cs
 C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\ShowView.baml
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\EditView.g.cs
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\EditView.baml
