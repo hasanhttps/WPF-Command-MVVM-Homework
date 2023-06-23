@@ -1,0 +1,25 @@
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\bin\Debug\net6.0-windows\WPF Command MVVM Homework.exe
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\bin\Debug\net6.0-windows\WPF Command MVVM Homework.deps.json
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\bin\Debug\net6.0-windows\WPF Command MVVM Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\bin\Debug\net6.0-windows\WPF Command MVVM Homework.dll
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\bin\Debug\net6.0-windows\WPF Command MVVM Homework.pdb
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\ResourceDictionaries\MainCustomButtonsRD.baml
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\App.baml
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.g.resources
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.dll
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\refint\WPF Command MVVM Homework.dll
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.pdb
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\WPF Command MVVM Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\ref\WPF Command MVVM Homework.dll
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\ShowView.g.cs
+C:\Users\hasan\source\repos\WPF Command MVVM Homework\WPF Command MVVM Homework\obj\Debug\net6.0-windows\Views\ShowView.baml
